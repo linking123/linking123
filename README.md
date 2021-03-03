@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **linking123/linking123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,6 +17,9 @@ Here are some ideas to get you started:
 ### Hi there 👋
 
 I'm a Java full stack developer, and I'd like to make some contributions for Java open source and share some thoughts on my blog and github.
+
+I'm looking for a new job base at HeFei.
+
 
 ### Find me
 
