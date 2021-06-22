@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I'm a Java full stack developer, and I'd like to make some contributions for Java open source and share some thoughts on my blog and github.
 
-I'm work and live at Hefei.
+I'm work and lives in Hefei.
 
 
 ### Find me
