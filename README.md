@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-I'm a Java full stack developer, and I'd like to make some contributions for Java open source and share some thoughts on my blog and github.
+I'm a full stack developer, and I'd like to make some contributions for open source and share some thoughts on my blog and github.
 
 I'm work and lives in Hefei.
 
+I am finding remote job.
 
 ### Find me
 
