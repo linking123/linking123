@@ -16,11 +16,9 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-I'm a full stack developer, and I'd like to make some contributions for open source and share some thoughts on my blog and github.
+I'm a full-stack developer. I'm passionate about contributing to open-source projects and sharing my insights on my blog and GitHub.
 
-I'm work and lives in Hefei.
-
-I am finding remote job.
+I work and live in Hefei-Shushan.
 
 ### Find me
 
